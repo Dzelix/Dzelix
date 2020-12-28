@@ -2,7 +2,7 @@
 
 Here is a snapshot of my professional experience.
 
-🔨 currently frontend developer at [Mail.RU](https://combo.mail.ru) Group and VK
+🔨 currently frontend developer at [SMS Traffic](https://www.smstraffic.ru), former developer at [Mail.RU](https://combo.mail.ru) Group.
 
 👨‍💻 >3 years of frontend development (Vue.js, Svelte, Node.js)
 
