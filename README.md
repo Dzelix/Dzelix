@@ -14,4 +14,6 @@ Here is a snapshot of my professional experience.
 
 💬 telegram: [@dzelix](https://telegram.me/dzelix)
 
+🔬 scientific channel: [@dzelix](https://telegram.me/pospsy)
+
 📫 [dzelix@gmail.com](mailto:dzelix@gmail.com)
