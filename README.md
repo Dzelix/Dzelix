@@ -12,6 +12,6 @@ Here is a snapshot of my professional experience
 
 🎓 former digital marketing and frontend lecturer at [HackerU Russia](https://hackeru.com)
 
-🔬 scientific channel in telegram: [@pospsy](https://telegram.me/pospsy)
+🔬 scientific channel in telegram [RU]: [@pospsy](https://telegram.me/pospsy)
 
 📫 [dzelix@gmail.com](mailto:dzelix@gmail.com)
