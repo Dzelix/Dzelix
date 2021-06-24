@@ -12,6 +12,6 @@ Here is a snapshot of my professional experience
 
 🎓 former digital marketing and frontend lecturer at [HackerU Russia](https://hackeru.com)
 
-🔬 YouTube channel with usefull tips [RU]: [WebDZ](https://www.youtube.com/channel/UCx4T-knjgUlLXCg5gGw0Fgw)
+🔬 YouTube channel with useful tips [RU]: [WebDZ](https://www.youtube.com/channel/UCx4T-knjgUlLXCg5gGw0Fgw)
 
 📫 [dzelix@gmail.com](mailto:dzelix@gmail.com)
