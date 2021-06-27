@@ -4,7 +4,7 @@ Here is a snapshot of my professional experience
 
 🔨 currently frontend developer at [SMS Traffic](https://www.smstraffic.ru), former developer at [Mail.RU Group](https://vkcombo.ru)
 
-👨‍💻 >5 years of frontend development (Vue, Svelte, Angular, JAMstack) and 1+ year of backend develompent (Node, Express, MongoDB)
+👨‍💻 >5 years of frontend development (Vue, Svelte, Angular, React, JAMstack) and 1+ year of backend develompent (Node, Express, MongoDB)
 
 🔔 >10 years of professional experience in digital, including marketing, UX design, and web development
 
