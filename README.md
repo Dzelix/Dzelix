@@ -6,7 +6,7 @@ Here is a snapshot of my professional experience
 
 👨‍💻 >5 years of front-end development (Vue, Svelte)
 
-💼 1+ year of back-end development (Node, Express, MongoDB)
+💼 1+ year of back-end development (Node, Express, Fastify, MongoDB)
 
 🔔 >10 years of professional experience in digital, including marketing, UX design, and web development
 
